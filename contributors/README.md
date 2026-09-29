@@ -7,5 +7,5 @@ To make your first contribution:
 3. Do not remove other names
 
 ## Contributors list
-- admin
 - Harsh (https://github.com/Harsh-Upadhyay005)
+- Amar kumar (https://github.com/amarkumarExecuter)
