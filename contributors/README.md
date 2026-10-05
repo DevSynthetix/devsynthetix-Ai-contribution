@@ -9,3 +9,4 @@ To make your first contribution:
 ## Contributors list
 - Harsh (https://github.com/Harsh-Upadhyay005)
 - Amar kumar (https://github.com/amarkumarExecuter)
+- [Namish Yadav](https://github.com/p3xz)
